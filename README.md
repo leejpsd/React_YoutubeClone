@@ -2,6 +2,6 @@
 
 ## https://gregarious-dieffenbachia-65a64e.netlify.app
 
-## tailwindcss
+## tailwindcss 사용
 
-## react-query
+## react-query 사용
